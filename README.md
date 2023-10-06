@@ -66,6 +66,14 @@ Welcome to our Furniture Store App, your one-stop destination for all your furni
 
 ![Screenshot (16)](https://github.com/AliMalik08/FurnitureApp/assets/94380008/12b34b1e-a741-483a-ad00-80852335a835)
 
+**Error**
+
+![Screenshot (174)](https://github.com/AliMalik08/FurnitureApp/assets/94380008/78e5dc0c-0412-4d13-9af5-3423687d73a9)
+![Screenshot (177)](https://github.com/AliMalik08/FurnitureApp/assets/94380008/0795f71e-faa6-42af-98e0-cc99f18e1ae7)
+
+
+![Screenshot (176)](https://github.com/AliMalik08/FurnitureApp/assets/94380008/afff12ae-b485-4f63-9553-6a74daf09549)
+
 
 
 
