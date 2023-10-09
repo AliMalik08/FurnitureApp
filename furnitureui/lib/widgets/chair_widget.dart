@@ -3,13 +3,6 @@ import 'package:furnitureui/common/color_constants.dart';
 import 'package:furnitureui/model/product_model.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-/*
-Title:ChairWidget
-Purpose:ChairWidget
-Created Date:17 March
-Created By:Kalpesh Khandla
-*/
-
 class ChairWidget extends StatelessWidget {
   final ProductModel productModel;
 
